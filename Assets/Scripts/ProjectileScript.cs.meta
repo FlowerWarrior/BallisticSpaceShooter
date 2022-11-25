@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e35ba16e745eebc4ca4ba8559a6c1fd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyParticlesPrefab: {instanceID: 0}
+  - enemyShootParticlePrefab: {instanceID: 0}
+  - audioImpact: {fileID: 8300000, guid: e141c0dc74e84be9fb3562870c69ae99, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
